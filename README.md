@@ -1,2 +1,2 @@
 # Forward_Logistics_delay_prediction_Machine-learning-Logistics-Regression-
-Deploy a machine learning model which predict the future Logistics delay for respective mention location , 
+Leveraging Machine Learning to eliminate supply chain bottlenecks. This project deploys a Logistic Regression model to predict potential delivery delays between fixed service centers. By analyzing historical dispatch patterns, the system provides actionable insights to optimize forward logistics and improve delivery reliability.
